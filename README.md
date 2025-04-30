@@ -52,7 +52,7 @@ Note: To explore the dashboard, open the .pbix file in Power BI Desktop.
 ● Open the ```Amazon Power BI Project.pbix``` file in Power BI Desktop.
 ● Explore the interactive visuals and modify filters as needed.
 
-#📌 Future Enhancements
+# 📌 Future Enhancements
 1. Integration with real-time sales data sources (via APIs)
 2. Enhanced forecasting using machine learning models
 3. Mobile-optimized layout for business on-the-go
