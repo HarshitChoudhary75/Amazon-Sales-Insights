@@ -4,17 +4,17 @@
 This Power BI dashboard transforms Amazon's raw sales data (2012–2015) into insightful and interactive visual analytics. The dashboard is designed to help business stakeholders discover sales trends, assess product category performance, and pinpoint growth opportunities across time, regions, and product lines.
 
 # 📌 Key Features
-🔍 Strategic Insight Generation: Transformed raw Amazon sales data into actionable business intelligence through detailed trend analysis and KPI evaluation.
+🔍 Strategic Insight Generation: Transformed raw Amazon sales data into actionable business intelligence through detailed trend analysis and KPI evaluation.<br>
 📈 Interactive Dashboards: Enabled dynamic exploration of:
 
 1. Sales by year and quarter
 2. Seasonal trends
 3. Regional performance
 
-📊 Category Analysis: Highlighted top-performing product categories, revealing revenue drivers and market demand shifts over time.
-🗺️ Geographical Visualizations: Mapped sales by country/region to identify high-growth zones and performance hotspots.
-🧮 Advanced Metrics with DAX: Leveraged DAX for time intelligence functions, cumulative revenue tracking, and year-over-year growth.
-📊 Clear Visual Storytelling: Used a mix of line graphs, bar charts, pie charts, and maps for compelling presentations.
+📊 Category Analysis: Highlighted top-performing product categories, revealing revenue drivers and market demand shifts over time.<br>
+🗺️ Geographical Visualizations: Mapped sales by country/region to identify high-growth zones and performance hotspots.<br>
+🧮 Advanced Metrics with DAX: Leveraged DAX for time intelligence functions, cumulative revenue tracking, and year-over-year growth.<br>
+📊 Clear Visual Storytelling: Used a mix of line graphs, bar charts, pie charts, and maps for compelling presentations.<br>
 
 # 🧰 Technologies Used
 ```
