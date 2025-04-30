@@ -21,7 +21,7 @@ This Power BI dashboard transforms Amazon's raw sales data (2012–2015) into in
 1. Tool	             Purpose
 2. Power             BI Dashboard creation & data visualization
 3. DAX	             Metric calculation & data modeling
-4. Excel	    Data preprocessing
+4. Excel	     Data preprocessing
 5. Power Query	     Data transformation & cleaning
 ```
 
